@@ -9,5 +9,5 @@ def main():
     crawler.main()
 
 
-if __name__=="__init__": 
+if __name__=="__main__": 
     main() 
