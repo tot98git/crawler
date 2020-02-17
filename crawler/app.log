@@ -1,0 +1,582 @@
+root - INFO - Started crawler: 
+ 
+root - INFO - Started fetching feed for 1
+root - INFO - Finished fetching feed for 0 
+ ---------
+root - INFO - Started fetching feed for 2
+root - INFO - Finished fetching feed for 1 
+ ---------
+root - INFO - Started fetching feed for 3
+root - INFO - Finished fetching feed for 2 
+ ---------
+root - INFO - Started fetching feed for 4
+root - INFO - Finished fetching feed for 3 
+ ---------
+root - INFO - Started fetching feed for 5
+root - INFO - Finished fetching feed for 4 
+ ---------
+root - INFO - Started fetching feed for 6
+root - INFO - Finished fetching feed for 5 
+ ---------
+root - INFO - Comparing existing data
+root - INFO - Writing new data
+root - INFO - Started crawler: 
+ 
+root - INFO - Started fetching feed for 1
+root - INFO - Finished fetching feed for 0 
+ ---------
+root - INFO - Started fetching feed for 2
+root - INFO - Finished fetching feed for 1 
+ ---------
+root - INFO - Started fetching feed for 3
+root - INFO - Finished fetching feed for 2 
+ ---------
+root - INFO - Started fetching feed for 4
+root - INFO - Finished fetching feed for 3 
+ ---------
+root - INFO - Started fetching feed for 5
+root - INFO - Finished fetching feed for 4 
+ ---------
+root - INFO - Started fetching feed for 6
+root - INFO - Finished fetching feed for 5 
+ ---------
+root - INFO - Comparing existing data
+root - INFO - Writing new data
+root - INFO - Started crawler: 
+ 
+root - INFO - Started fetching feed for 1
+root - INFO - Finished fetching feed for 0 
+ ---------
+root - INFO - Started fetching feed for 2
+root - INFO - Finished fetching feed for 1 
+ ---------
+root - INFO - Started fetching feed for 3
+root - INFO - Finished fetching feed for 2 
+ ---------
+root - INFO - Started fetching feed for 4
+root - INFO - Finished fetching feed for 3 
+ ---------
+root - INFO - Started fetching feed for 5
+root - INFO - Finished fetching feed for 4 
+ ---------
+root - INFO - Started fetching feed for 6
+root - INFO - Finished fetching feed for 5 
+ ---------
+root - INFO - Comparing existing data
+root - INFO - Started crawler: 
+ 
+root - INFO - Started fetching feed for 1
+root - INFO - Finished fetching feed for 0 
+ ---------
+root - INFO - Started fetching feed for 2
+root - INFO - Finished fetching feed for 1 
+ ---------
+root - INFO - Started fetching feed for 3
+root - INFO - Finished fetching feed for 2 
+ ---------
+root - INFO - Started fetching feed for 4
+root - INFO - Finished fetching feed for 3 
+ ---------
+root - INFO - Started fetching feed for 5
+root - INFO - Finished fetching feed for 4 
+ ---------
+root - INFO - Started fetching feed for 6
+root - INFO - Finished fetching feed for 5 
+ ---------
+root - INFO - Comparing existing data
+root - INFO - Writing new data
+root - INFO - Started crawler: 
+ 
+root - INFO - Started fetching feed for 1
+root - INFO - Finished fetching feed for 0 
+ ---------
+root - INFO - Started fetching feed for 2
+root - INFO - Finished fetching feed for 1 
+ ---------
+root - INFO - Started fetching feed for 3
+root - INFO - Finished fetching feed for 2 
+ ---------
+root - INFO - Started fetching feed for 4
+root - INFO - Finished fetching feed for 3 
+ ---------
+root - INFO - Started fetching feed for 5
+root - INFO - Finished fetching feed for 4 
+ ---------
+root - INFO - Started fetching feed for 6
+root - INFO - Finished fetching feed for 5 
+ ---------
+root - INFO - Comparing existing data
+root - INFO - Writing new data
+root - INFO - Started crawler: 
+ 
+root - INFO - Started fetching feed for 1
+root - INFO - Finished fetching feed for 0 
+ ---------
+root - INFO - Started fetching feed for 2
+root - INFO - Finished fetching feed for 1 
+ ---------
+root - INFO - Started fetching feed for 3
+root - INFO - Finished fetching feed for 2 
+ ---------
+root - INFO - Started fetching feed for 4
+root - INFO - Finished fetching feed for 3 
+ ---------
+root - INFO - Started fetching feed for 5
+root - INFO - Finished fetching feed for 4 
+ ---------
+root - INFO - Started fetching feed for 6
+root - INFO - Finished fetching feed for 5 
+ ---------
+root - INFO - Comparing existing data
+root - INFO - Writing new data
+root - INFO - Started crawler: 
+ 
+root - INFO - Started fetching feed for 1
+root - INFO - Finished fetching feed for 0 
+ ---------
+root - INFO - Started fetching feed for 2
+root - INFO - Finished fetching feed for 1 
+ ---------
+root - INFO - Started fetching feed for 3
+root - INFO - Finished fetching feed for 2 
+ ---------
+root - INFO - Started fetching feed for 4
+root - INFO - Finished fetching feed for 3 
+ ---------
+root - INFO - Started fetching feed for 5
+root - INFO - Finished fetching feed for 4 
+ ---------
+root - INFO - Started fetching feed for 6
+root - INFO - Finished fetching feed for 5 
+ ---------
+root - INFO - Comparing existing data
+root - INFO - Writing new data
+root - INFO - Started crawler: 
+ 
+root - INFO - Started fetching feed for 1
+root - INFO - Finished fetching feed for 0 
+ ---------
+root - INFO - Started fetching feed for 2
+root - INFO - Finished fetching feed for 1 
+ ---------
+root - INFO - Started fetching feed for 3
+root - INFO - Finished fetching feed for 2 
+ ---------
+root - INFO - Started fetching feed for 4
+root - INFO - Finished fetching feed for 3 
+ ---------
+root - INFO - Started fetching feed for 5
+root - INFO - Finished fetching feed for 4 
+ ---------
+root - INFO - Started fetching feed for 6
+root - INFO - Finished fetching feed for 5 
+ ---------
+root - INFO - Comparing existing data
+root - INFO - Writing new data
+2020-02-11 22:00:05,214 - root - INFO - Started crawler: 
+ 
+2020-02-11 22:00:05,214 - root - INFO - Started fetching feed for 1
+2020-02-11 22:00:06,119 - root - INFO - Finished fetching feed for 0 
+ ---------
+2020-02-11 22:00:06,119 - root - INFO - Started fetching feed for 2
+2020-02-11 22:00:06,968 - root - INFO - Finished fetching feed for 1 
+ ---------
+2020-02-11 22:00:06,968 - root - INFO - Started fetching feed for 3
+2020-02-11 22:00:07,722 - root - INFO - Finished fetching feed for 2 
+ ---------
+2020-02-11 22:00:07,722 - root - INFO - Started fetching feed for 4
+2020-02-11 22:00:08,627 - root - INFO - Finished fetching feed for 3 
+ ---------
+2020-02-11 22:00:08,628 - root - INFO - Started fetching feed for 5
+2020-02-11 22:00:09,027 - root - INFO - Finished fetching feed for 4 
+ ---------
+2020-02-11 22:00:09,027 - root - INFO - Started fetching feed for 6
+2020-02-11 22:00:10,032 - root - INFO - Finished fetching feed for 5 
+ ---------
+2020-02-11 22:00:10,032 - root - INFO - Comparing existing data
+2020-02-11 22:00:10,033 - root - INFO - Writing new data
+2020-02-11 22:01:13,861 - root - INFO - Started crawler: 
+ 
+2020-02-11 22:01:13,861 - root - INFO - Started fetching feed for 1
+2020-02-11 22:01:14,651 - root - INFO - Finished fetching feed for 0 
+ ---------
+2020-02-11 22:01:14,651 - root - INFO - Started fetching feed for 2
+2020-02-11 22:01:15,270 - root - INFO - Finished fetching feed for 1 
+ ---------
+2020-02-11 22:01:15,271 - root - INFO - Started fetching feed for 3
+2020-02-11 22:01:16,467 - root - INFO - Finished fetching feed for 2 
+ ---------
+2020-02-11 22:01:16,467 - root - INFO - Started fetching feed for 4
+2020-02-11 22:01:17,391 - root - INFO - Finished fetching feed for 3 
+ ---------
+2020-02-11 22:01:17,391 - root - INFO - Started fetching feed for 5
+2020-02-11 22:01:17,784 - root - INFO - Finished fetching feed for 4 
+ ---------
+2020-02-11 22:01:17,784 - root - INFO - Started fetching feed for 6
+2020-02-11 22:01:18,668 - root - INFO - Finished fetching feed for 5 
+ ---------
+2020-02-11 22:01:18,668 - root - INFO - Comparing existing data
+2020-02-11 22:01:18,670 - root - INFO - Writing new data
+2020-02-11 22:01:18,672 - root - INFO - Success!
+2020-02-11 22:01:54,842 - root - INFO - Started crawler: 
+ 
+2020-02-11 22:01:54,842 - root - INFO - Started fetching feed for 1
+2020-02-11 22:01:55,675 - root - INFO - Finished fetching feed for 0 
+ ---------
+2020-02-11 22:01:55,675 - root - INFO - Started fetching feed for 2
+2020-02-11 22:01:56,383 - root - INFO - Finished fetching feed for 1 
+ ---------
+2020-02-11 22:01:56,383 - root - INFO - Started fetching feed for 3
+2020-02-11 22:01:57,209 - root - INFO - Finished fetching feed for 2 
+ ---------
+2020-02-11 22:01:57,209 - root - INFO - Started fetching feed for 4
+2020-02-11 22:01:58,108 - root - INFO - Finished fetching feed for 3 
+ ---------
+2020-02-11 22:01:58,108 - root - INFO - Started fetching feed for 5
+2020-02-11 22:01:58,514 - root - INFO - Finished fetching feed for 4 
+ ---------
+2020-02-11 22:01:58,514 - root - INFO - Started fetching feed for 6
+2020-02-11 22:01:59,419 - root - INFO - Finished fetching feed for 5 
+ ---------
+2020-02-11 22:01:59,419 - root - INFO - Comparing existing data
+2020-02-11 22:01:59,420 - root - INFO - Writing new data
+2020-02-11 22:01:59,422 - root - INFO - Success!
+2020-02-11 22:02:36,807 - root - INFO - Started crawler: 
+ 
+2020-02-11 22:02:36,807 - root - INFO - Started fetching feed for 1
+2020-02-11 22:02:37,440 - root - INFO - Finished fetching feed for 0 
+ ---------
+2020-02-11 22:02:37,441 - root - INFO - Started fetching feed for 2
+2020-02-11 22:02:37,954 - root - INFO - Finished fetching feed for 1 
+ ---------
+2020-02-11 22:02:37,954 - root - INFO - Started fetching feed for 3
+2020-02-11 22:02:38,673 - root - INFO - Finished fetching feed for 2 
+ ---------
+2020-02-11 22:02:38,673 - root - INFO - Started fetching feed for 4
+2020-02-11 22:02:39,309 - root - INFO - Finished fetching feed for 3 
+ ---------
+2020-02-11 22:02:39,309 - root - INFO - Started fetching feed for 5
+2020-02-11 22:02:39,588 - root - INFO - Finished fetching feed for 4 
+ ---------
+2020-02-11 22:02:39,589 - root - INFO - Started fetching feed for 6
+2020-02-11 22:02:40,267 - root - INFO - Finished fetching feed for 5 
+ ---------
+2020-02-11 22:02:40,267 - root - INFO - Comparing existing data
+2020-02-11 22:02:54,463 - root - INFO - Started crawler: 
+ 
+2020-02-11 22:02:54,463 - root - INFO - Started fetching feed for 1
+2020-02-11 22:02:55,066 - root - INFO - Finished fetching feed for 0 
+ ---------
+2020-02-11 22:02:55,066 - root - INFO - Started fetching feed for 2
+2020-02-11 22:02:55,742 - root - INFO - Finished fetching feed for 1 
+ ---------
+2020-02-11 22:02:55,743 - root - INFO - Started fetching feed for 3
+2020-02-11 22:02:56,459 - root - INFO - Finished fetching feed for 2 
+ ---------
+2020-02-11 22:02:56,460 - root - INFO - Started fetching feed for 4
+2020-02-11 22:02:57,237 - root - INFO - Finished fetching feed for 3 
+ ---------
+2020-02-11 22:02:57,237 - root - INFO - Started fetching feed for 5
+2020-02-11 22:02:57,562 - root - INFO - Finished fetching feed for 4 
+ ---------
+2020-02-11 22:02:57,563 - root - INFO - Started fetching feed for 6
+2020-02-11 22:02:58,273 - root - INFO - Finished fetching feed for 5 
+ ---------
+2020-02-11 22:02:58,273 - root - INFO - Comparing existing data
+2020-02-11 22:03:24,226 - root - INFO - Started crawler: 
+ 
+2020-02-11 22:03:24,226 - root - INFO - Started fetching feed for 1
+2020-02-11 22:03:25,365 - root - INFO - Finished fetching feed for 0 
+ ---------
+2020-02-11 22:03:25,365 - root - INFO - Started fetching feed for 2
+2020-02-11 22:03:26,144 - root - INFO - Finished fetching feed for 1 
+ ---------
+2020-02-11 22:03:26,144 - root - INFO - Started fetching feed for 3
+2020-02-11 22:03:27,060 - root - INFO - Finished fetching feed for 2 
+ ---------
+2020-02-11 22:03:27,060 - root - INFO - Started fetching feed for 4
+2020-02-11 22:03:28,516 - root - INFO - Finished fetching feed for 3 
+ ---------
+2020-02-11 22:03:28,516 - root - INFO - Started fetching feed for 5
+2020-02-11 22:03:28,961 - root - INFO - Finished fetching feed for 4 
+ ---------
+2020-02-11 22:03:28,961 - root - INFO - Started fetching feed for 6
+2020-02-11 22:03:30,329 - root - INFO - Finished fetching feed for 5 
+ ---------
+2020-02-11 22:03:30,329 - root - INFO - Comparing existing data
+2020-02-11 22:03:30,334 - root - INFO - Writing new data
+2020-02-11 22:03:30,336 - root - INFO - Success!
+2020-02-12 13:53:01,451 - root - INFO - Started crawler: 
+ 
+2020-02-12 13:53:01,452 - root - INFO - Started fetching feed for 1
+2020-02-12 13:53:01,877 - root - INFO - Finished fetching feed for 0 
+ ---------
+2020-02-12 13:53:01,877 - root - INFO - Started fetching feed for 2
+2020-02-12 13:53:02,212 - root - INFO - Finished fetching feed for 1 
+ ---------
+2020-02-12 13:53:02,212 - root - INFO - Started fetching feed for 3
+2020-02-12 13:53:02,553 - root - INFO - Finished fetching feed for 2 
+ ---------
+2020-02-12 13:53:02,554 - root - INFO - Started fetching feed for 4
+2020-02-12 13:53:02,956 - root - INFO - Finished fetching feed for 3 
+ ---------
+2020-02-12 13:53:02,956 - root - INFO - Started fetching feed for 5
+2020-02-12 13:53:03,163 - root - INFO - Finished fetching feed for 4 
+ ---------
+2020-02-12 13:53:03,163 - root - INFO - Started fetching feed for 6
+2020-02-12 13:53:03,525 - root - INFO - Finished fetching feed for 5 
+ ---------
+2020-02-12 13:53:03,525 - root - INFO - Comparing existing data
+2020-02-12 13:53:03,530 - root - INFO - Writing new data
+2020-02-12 13:53:03,533 - root - INFO - Success!
+2020-02-12 18:25:37,406 - root - INFO - Started crawler: 
+ 
+2020-02-12 18:25:37,406 - root - INFO - Started fetching feed for 1
+2020-02-12 18:25:37,812 - root - INFO - Finished fetching feed for 0 
+ ---------
+2020-02-12 18:25:37,812 - root - INFO - Started fetching feed for 2
+2020-02-12 18:25:38,153 - root - INFO - Finished fetching feed for 1 
+ ---------
+2020-02-12 18:25:38,153 - root - INFO - Started fetching feed for 3
+2020-02-12 18:25:38,476 - root - INFO - Finished fetching feed for 2 
+ ---------
+2020-02-12 18:25:38,476 - root - INFO - Started fetching feed for 4
+2020-02-12 18:25:38,843 - root - INFO - Finished fetching feed for 3 
+ ---------
+2020-02-12 18:25:38,843 - root - INFO - Started fetching feed for 5
+2020-02-12 18:25:39,057 - root - INFO - Finished fetching feed for 4 
+ ---------
+2020-02-12 18:25:39,057 - root - INFO - Started fetching feed for 6
+2020-02-12 18:25:39,395 - root - INFO - Finished fetching feed for 5 
+ ---------
+2020-02-12 18:25:39,395 - root - INFO - Comparing existing data
+2020-02-12 18:25:39,400 - root - INFO - Writing new data
+2020-02-12 18:25:39,402 - root - INFO - Success!
+2020-02-12 18:26:17,051 - root - INFO - Started crawler: 
+ 
+2020-02-12 18:26:17,051 - root - INFO - Started fetching feed for 1
+2020-02-12 18:26:17,373 - root - INFO - Finished fetching feed for 0 
+ ---------
+2020-02-12 18:26:17,373 - root - INFO - Started fetching feed for 2
+2020-02-12 18:26:17,669 - root - INFO - Finished fetching feed for 1 
+ ---------
+2020-02-12 18:26:17,669 - root - INFO - Started fetching feed for 3
+2020-02-12 18:26:17,987 - root - INFO - Finished fetching feed for 2 
+ ---------
+2020-02-12 18:26:17,987 - root - INFO - Started fetching feed for 4
+2020-02-12 18:26:18,339 - root - INFO - Finished fetching feed for 3 
+ ---------
+2020-02-12 18:26:18,339 - root - INFO - Started fetching feed for 5
+2020-02-12 18:26:18,554 - root - INFO - Finished fetching feed for 4 
+ ---------
+2020-02-12 18:26:18,554 - root - INFO - Started fetching feed for 6
+2020-02-12 18:26:18,939 - root - INFO - Finished fetching feed for 5 
+ ---------
+2020-02-12 18:26:18,939 - root - INFO - Comparing existing data
+2020-02-12 18:26:18,945 - root - INFO - Nothing to write!
+2020-02-12 20:59:32,624 - root - INFO - Started crawler: 
+ 
+2020-02-12 20:59:32,625 - root - INFO - Started fetching feed for 1
+2020-02-12 20:59:33,784 - root - INFO - Finished fetching feed for 0 
+ ---------
+2020-02-12 20:59:33,784 - root - INFO - Started fetching feed for 2
+2020-02-12 20:59:34,583 - root - INFO - Finished fetching feed for 1 
+ ---------
+2020-02-12 20:59:34,583 - root - INFO - Started fetching feed for 3
+2020-02-12 20:59:35,310 - root - INFO - Finished fetching feed for 2 
+ ---------
+2020-02-12 20:59:35,310 - root - INFO - Started fetching feed for 4
+2020-02-12 20:59:36,089 - root - INFO - Finished fetching feed for 3 
+ ---------
+2020-02-12 20:59:36,089 - root - INFO - Started fetching feed for 5
+2020-02-12 20:59:36,347 - root - INFO - Finished fetching feed for 4 
+ ---------
+2020-02-12 20:59:36,347 - root - INFO - Started fetching feed for 6
+2020-02-12 20:59:37,104 - root - INFO - Finished fetching feed for 5 
+ ---------
+2020-02-12 20:59:37,105 - root - INFO - Comparing existing data
+2020-02-12 20:59:37,110 - root - INFO - Writing new data 22
+2020-02-12 20:59:37,113 - root - INFO - Success!
+2020-02-12 21:02:58,865 - root - INFO - Started crawler: 
+ 
+2020-02-12 21:02:58,865 - root - INFO - Started fetching feed for 1
+2020-02-12 21:03:02,511 - root - INFO - Finished fetching feed for 1 
+ ---------
+2020-02-12 21:03:02,511 - root - INFO - Started fetching feed for 2
+2020-02-12 21:03:03,159 - root - INFO - Finished fetching feed for 2 
+ ---------
+2020-02-12 21:03:03,159 - root - INFO - Started fetching feed for 3
+2020-02-12 21:03:03,933 - root - INFO - Finished fetching feed for 3 
+ ---------
+2020-02-12 21:03:03,933 - root - INFO - Started fetching feed for 4
+2020-02-12 21:03:04,949 - root - INFO - Finished fetching feed for 4 
+ ---------
+2020-02-12 21:03:04,949 - root - INFO - Started fetching feed for 5
+2020-02-12 21:03:05,303 - root - INFO - Finished fetching feed for 5 
+ ---------
+2020-02-12 21:03:05,304 - root - INFO - Started fetching feed for 6
+2020-02-12 21:03:06,117 - root - INFO - Finished fetching feed for 6 
+ ---------
+2020-02-12 21:03:06,117 - root - INFO - Comparing existing data
+2020-02-12 21:03:06,120 - root - INFO - Nothing to write!
+2020-02-12 21:03:18,704 - root - INFO - Started crawler: 
+ 
+2020-02-12 21:03:18,705 - root - INFO - Started fetching feed for 1
+2020-02-12 21:03:19,944 - root - INFO - Finished fetching feed for 1 
+ ---------
+2020-02-12 21:03:19,944 - root - INFO - Started fetching feed for 2
+2020-02-12 21:03:20,571 - root - INFO - Finished fetching feed for 2 
+ ---------
+2020-02-12 21:03:20,571 - root - INFO - Started fetching feed for 3
+2020-02-12 21:03:21,572 - root - INFO - Finished fetching feed for 3 
+ ---------
+2020-02-12 21:03:21,572 - root - INFO - Started fetching feed for 4
+2020-02-12 21:03:22,417 - root - INFO - Finished fetching feed for 4 
+ ---------
+2020-02-12 21:03:22,417 - root - INFO - Started fetching feed for 5
+2020-02-12 21:03:22,667 - root - INFO - Finished fetching feed for 5 
+ ---------
+2020-02-12 21:03:22,668 - root - INFO - Started fetching feed for 6
+2020-02-12 21:03:23,482 - root - INFO - Finished fetching feed for 6 
+ ---------
+2020-02-12 21:03:23,482 - root - INFO - Comparing existing data
+2020-02-12 21:03:23,486 - root - INFO - Writing new data 1
+2020-02-12 21:03:23,487 - root - INFO - Success!
+2020-02-12 21:09:52,002 - root - INFO - Started crawler: 
+ 
+2020-02-12 21:09:52,002 - root - INFO - Started fetching feed for 1
+2020-02-12 21:09:52,571 - root - INFO - Finished fetching feed for 1 
+ ---------
+2020-02-12 21:09:52,572 - root - INFO - Started fetching feed for 2
+2020-02-12 21:09:53,013 - root - INFO - Finished fetching feed for 2 
+ ---------
+2020-02-12 21:09:53,013 - root - INFO - Started fetching feed for 3
+2020-02-12 21:09:53,553 - root - INFO - Finished fetching feed for 3 
+ ---------
+2020-02-12 21:09:53,553 - root - INFO - Started fetching feed for 4
+2020-02-12 21:09:54,162 - root - INFO - Finished fetching feed for 4 
+ ---------
+2020-02-12 21:09:54,162 - root - INFO - Started fetching feed for 5
+2020-02-12 21:09:54,408 - root - INFO - Finished fetching feed for 5 
+ ---------
+2020-02-12 21:09:54,408 - root - INFO - Started fetching feed for 6
+2020-02-12 21:09:54,929 - root - INFO - Finished fetching feed for 6 
+ ---------
+2020-02-12 21:09:54,929 - root - INFO - Comparing existing data
+2020-02-12 21:09:54,932 - root - INFO - Writing new data 2
+2020-02-12 21:09:54,933 - root - INFO - Success!
+2020-02-13 13:09:32,086 - root - INFO - Started crawler: 
+ 
+2020-02-13 13:09:32,086 - root - INFO - Started fetching feed for 1
+2020-02-13 13:09:32,484 - root - INFO - Finished fetching feed for 1 
+ ---------
+2020-02-13 13:09:32,484 - root - INFO - Started fetching feed for 2
+2020-02-13 13:09:32,832 - root - INFO - Finished fetching feed for 2 
+ ---------
+2020-02-13 13:09:32,832 - root - INFO - Started fetching feed for 3
+2020-02-13 13:09:33,176 - root - INFO - Finished fetching feed for 3 
+ ---------
+2020-02-13 13:09:33,176 - root - INFO - Started fetching feed for 4
+2020-02-13 13:09:33,598 - root - INFO - Finished fetching feed for 4 
+ ---------
+2020-02-13 13:09:33,598 - root - INFO - Started fetching feed for 5
+2020-02-13 13:09:33,809 - root - INFO - Finished fetching feed for 5 
+ ---------
+2020-02-13 13:09:33,810 - root - INFO - Started fetching feed for 6
+2020-02-13 13:09:34,160 - root - INFO - Finished fetching feed for 6 
+ ---------
+2020-02-13 13:09:34,160 - root - INFO - Comparing existing data
+2020-02-13 13:09:34,164 - root - INFO - Writing new data 54
+2020-02-13 13:09:34,166 - root - INFO - Success!
+2020-02-13 17:26:22,044 - root - INFO - Started crawler: 
+ 
+2020-02-13 17:26:22,045 - root - INFO - Started fetching feed for 1
+2020-02-13 17:26:22,455 - root - INFO - Finished fetching feed for 1 
+ ---------
+2020-02-13 17:26:22,455 - root - INFO - Started fetching feed for 2
+2020-02-13 17:26:22,800 - root - INFO - Finished fetching feed for 2 
+ ---------
+2020-02-13 17:26:22,801 - root - INFO - Started fetching feed for 3
+2020-02-13 17:26:23,143 - root - INFO - Finished fetching feed for 3 
+ ---------
+2020-02-13 17:26:23,143 - root - INFO - Started fetching feed for 4
+2020-02-13 17:26:23,485 - root - INFO - Finished fetching feed for 4 
+ ---------
+2020-02-13 17:26:23,485 - root - INFO - Started fetching feed for 5
+2020-02-13 17:26:23,723 - root - INFO - Finished fetching feed for 5 
+ ---------
+2020-02-13 17:26:23,723 - root - INFO - Started fetching feed for 6
+2020-02-13 17:26:24,060 - root - INFO - Finished fetching feed for 6 
+ ---------
+2020-02-13 17:26:24,060 - root - INFO - Comparing existing data
+2020-02-13 17:26:24,066 - root - INFO - Writing new data 27
+2020-02-13 17:26:24,069 - root - INFO - Success!
+2020-02-14 16:18:39,060 - root - INFO - Started crawler: 
+ 
+2020-02-14 16:18:39,060 - root - INFO - Started fetching feed for 1
+2020-02-14 16:18:39,493 - root - INFO - Finished fetching feed for 1 
+ ---------
+2020-02-14 16:18:39,493 - root - INFO - Started fetching feed for 2
+2020-02-14 16:18:39,788 - root - INFO - Finished fetching feed for 2 
+ ---------
+2020-02-14 16:18:39,788 - root - INFO - Started fetching feed for 3
+2020-02-14 16:18:40,150 - root - INFO - Finished fetching feed for 3 
+ ---------
+2020-02-14 16:18:40,150 - root - INFO - Started fetching feed for 4
+2020-02-14 16:18:40,641 - root - INFO - Finished fetching feed for 4 
+ ---------
+2020-02-14 16:18:40,642 - root - INFO - Started fetching feed for 5
+2020-02-14 16:18:40,873 - root - INFO - Finished fetching feed for 5 
+ ---------
+2020-02-14 16:18:40,873 - root - INFO - Started fetching feed for 6
+2020-02-14 16:18:41,306 - root - INFO - Finished fetching feed for 6 
+ ---------
+2020-02-14 16:18:41,306 - root - INFO - Comparing existing data
+2020-02-14 16:18:41,311 - root - INFO - Writing new data 61
+2020-02-14 16:18:41,313 - root - INFO - Success!
+2020-02-16 14:38:47,850 - root - INFO - Started crawler: 
+ 
+2020-02-16 14:38:47,850 - root - INFO - Started fetching feed for 1
+2020-02-16 14:38:48,318 - root - INFO - Finished fetching feed for 1 
+ ---------
+2020-02-16 14:38:48,318 - root - INFO - Started fetching feed for 2
+2020-02-16 14:38:48,640 - root - INFO - Finished fetching feed for 2 
+ ---------
+2020-02-16 14:38:48,640 - root - INFO - Started fetching feed for 3
+2020-02-16 14:38:49,076 - root - INFO - Finished fetching feed for 3 
+ ---------
+2020-02-16 14:38:49,076 - root - INFO - Started fetching feed for 4
+2020-02-16 14:38:49,468 - root - INFO - Finished fetching feed for 4 
+ ---------
+2020-02-16 14:38:49,468 - root - INFO - Started fetching feed for 5
+2020-02-16 14:38:49,782 - root - INFO - Finished fetching feed for 5 
+ ---------
+2020-02-16 14:38:49,782 - root - INFO - Started fetching feed for 6
+2020-02-16 14:38:50,251 - root - INFO - Finished fetching feed for 6 
+ ---------
+2020-02-16 14:38:50,251 - root - INFO - Comparing existing data
+2020-02-16 14:38:50,255 - root - INFO - Writing new data 82
+2020-02-16 14:38:50,257 - root - INFO - Success!
+2020-02-17 18:29:14,315 - root - INFO - Started crawler: 
+ 
+2020-02-17 18:29:14,315 - root - INFO - Started fetching feed for 1
+2020-02-17 18:29:14,703 - root - INFO - Finished fetching feed for 1 
+ ---------
+2020-02-17 18:29:14,704 - root - INFO - Started fetching feed for 2
+2020-02-17 18:29:15,491 - root - INFO - Finished fetching feed for 2 
+ ---------
+2020-02-17 18:29:15,491 - root - INFO - Started fetching feed for 3
+2020-02-17 18:29:15,831 - root - INFO - Finished fetching feed for 3 
+ ---------
+2020-02-17 18:29:15,831 - root - INFO - Started fetching feed for 4
+2020-02-17 18:29:16,161 - root - INFO - Finished fetching feed for 4 
+ ---------
+2020-02-17 18:29:16,161 - root - INFO - Started fetching feed for 5
+2020-02-17 18:29:16,370 - root - INFO - Finished fetching feed for 5 
+ ---------
+2020-02-17 18:29:16,371 - root - INFO - Started fetching feed for 6
+2020-02-17 18:29:16,708 - root - INFO - Finished fetching feed for 6 
+ ---------
+2020-02-17 18:29:16,708 - root - INFO - Comparing existing data
+2020-02-17 18:29:16,713 - root - INFO - Writing new data 75
+2020-02-17 18:29:16,715 - root - INFO - Success!
